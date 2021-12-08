@@ -1,1 +1,1 @@
-# hardstore
+hardstore project school
