@@ -11,6 +11,6 @@
 
 
 <header>
-  <h2>Cities</h2>
+  <h2>Hardstore</h2>
   <?php include 'navbar.php' ?>
 </header>
