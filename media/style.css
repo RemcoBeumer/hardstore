@@ -1,7 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0em;
+  padding: 0em;
+}
+
+/* Style the header */
 header {
-    background-color: #666;
-    padding-top: 3em;
-    text-align: center;
-    font-size: 35px;
-    color: white;
-  }
+  background-color: #666;
+  padding-top: 2em;
+  margin: 0em;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+.navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 1em;
+  text-decoration: none;
+}
+
+.navbar li {
+  float: left;
+}
+
+.navbar a:hover {
+  background-color: #2f3640;
+}
+
+/* Container for flexboxes */
+section {
+  display: -webkit-flex;
+  display: flex;
+}
+
+/* Style the navigation menu */
+nav {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: #ccc;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
