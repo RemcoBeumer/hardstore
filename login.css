@@ -8,6 +8,16 @@ body, html {
     box-sizing: border-box;
 }
 
+.background {
+    background-image: url(achtergrond.png);
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    height: 800px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .loginform {
     background-color: rgb(0,0,0);
     background-color: rgba(0,0,0, 0.4);
