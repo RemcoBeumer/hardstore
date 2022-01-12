@@ -1,8 +1,15 @@
-<header>
-  <ul class="navbar">
-    <li><a href="index.php">Home</a></li>
-    <li><a href="contact.php">Contact</a></li>
-    <li><a href="about.php">About</a></li>
-    <li><a href="news.php">News</a></li>
-  </ul>
-</header>
+<?php
+
+include_once 'functions.php';
+$arr = [
+  'Home'=>'index.php',
+  'Skills'=>'skills.php',
+  'Opdrachten'=>'opdrachten.php',
+  'Contact'=>'contact.php',
+  'About'=>'about.php',
+  'Admin'=>'Admin.php',
+];
+
+echo createList($arr, 'navbar');
+
+?>
