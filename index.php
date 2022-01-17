@@ -9,17 +9,10 @@
 
   <body>
     <div class="topnav" id="topnav">
-<<<<<<< HEAD:index.html
-      <a href="#inloggen">Inloggen</a>
+      <a href="login.php">Inloggen</a>
       <a href="#contact">Contact</a>
       <a href="#winkel">Producten</a>
       <a href="#home" class="active">Home</a>
-=======
-      <a href="#home" class="active">Home</a>
-      <a href="#winkel">Producten</a>
-      <a href="#contact">Contact</a>
-      <a href="login.html">Inloggen</a>
->>>>>>> 96393143a4171954e040da8a301eae79cbe7b67b:index.php
     </div>
 
 <div class="card">
