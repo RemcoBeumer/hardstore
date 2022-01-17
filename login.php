@@ -37,7 +37,8 @@
         <input type="text" class="login-input" name="username" placeholder="Gebruikersnaam" autofocus="true"/>
         <input type="password" class="login-input" name="password" placeholder="Wachtwoord"/>
         <input type="submit" value="Inloggen" name="submit" class="login-button"/>
-        <p class="link"><a href="registration.php">Registreren</a></p>
+        <p class="link"><a href="registration.php">Registreren</a>
+        <a href="index.php">Terug</a></p>
   </form>
 <?php
     }

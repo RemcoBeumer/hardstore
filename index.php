@@ -11,7 +11,7 @@
     <div class="heading">
       <h4>Hardstore</h4>
 </div>
-  <a href="login.pgp">Inloggen</a>
+  <a href="login.php">Inloggen</a>
   <a href="contact.php">Contact</a>
   <div class="dropdown">
     <button class="dropbtn">Producten
