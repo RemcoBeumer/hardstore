@@ -1,18 +1,18 @@
 Pagina's:
 
  - Voorpagina:
-job
+Job
 
-producten
+- Inlog system:
+Ready, MYSQL toevoegen
+
+- Winkelmandje:
+Dylan
+
+- Contact pagina:
+Calvin
+
+- Producten:
 remco doet laptops
 madelon telefoons
 reno doet tv's
-
-- Winkelmandje:
-contact
-
-contact
-
-
-HTML: Remco, Calvin, Job
-CSS: Dylan, Reno, Madelon 
