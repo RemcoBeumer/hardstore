@@ -23,7 +23,7 @@
       <a href="telefoons.php">Telefoons</a>
     </div>
   </div> 
-  <a href="home.php">Home</a>
+  <a href="index.php">Home</a>
 </div>
 
 <div class="row">
