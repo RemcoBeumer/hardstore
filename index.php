@@ -18,9 +18,9 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="laptops.php">Laptops</a>
-      <a href="televisies.php">Televisies</a>
-      <a href="telefoons.php">Telefoons</a>
+      <a href="./producten/laptops.php">Laptops</a>
+      <a href="./producten/televisies.php">Televisies</a>
+      <a href="./producten/telefoons.php">Telefoons</a>
     </div>
   </div> 
   <a href="index.php">Home</a>
