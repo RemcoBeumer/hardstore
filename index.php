@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 
 <html lang="eng">
   <head>
@@ -13,7 +12,7 @@
       <a href="#home" class="active">Home</a>
       <a href="#winkel">Producten</a>
       <a href="#contact">Contact</a>
-      <a href="#inloggen">Inloggen</a>
+      <a href="login.html">Inloggen</a>
     </div>
 
 <div class="card">
