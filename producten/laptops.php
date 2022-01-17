@@ -9,7 +9,7 @@
 
   <div class="navbar">
     <div class="heading">
-      <h4>Hardstore</h4>
+      <h4>Hardstore - Laptops</h4>
 </div>
   <a href="../login.php">Inloggen</a>
   <a href="../contact.php">Contact</a>
