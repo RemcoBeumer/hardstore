@@ -1,19 +1,17 @@
 Pagina's:
 
  - Voorpagina:
-Calvin
-Reno
+job
 
-- Winkel pagina:
-Remco
-Dylan
+producten
+remco doet laptops
+madelon telefoons
+reno doet tv's
 
 - Winkelmandje:
-Remco, Job
+contact
 
-- Inloggen/registreren:
-Job
-Madelon
+contact
 
 
 HTML: Remco, Calvin, Job
