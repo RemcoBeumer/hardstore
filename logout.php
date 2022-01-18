@@ -5,4 +5,6 @@
         // Omleiden naar startpagina
         header("Location: login.php");
     }
+
+    include 'footer.php'
 ?>
