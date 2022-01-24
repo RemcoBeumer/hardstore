@@ -34,7 +34,7 @@
     <h2 style="text-align:center">HP Chromebook 14b-nb0350nd</h2>
     <p class="price">Prijs: €799</p>
     <p style='color:#f1f1f1'>dit is niet belangrijke text  </p>
-    <img src= "./media/chromebook.png" style='width: 100%'>
+    <img src= "./media/chromebook.png" style='width: 93%'>
     
       <p><button>Voeg toe aan winkelmandje</button></p>
 </div>
@@ -42,7 +42,7 @@
 <div class="column">
     <div class="card">
     <h2 style="text-align:center">HP Victus 16-e0307nd</h2>
-    <p class="price">vanaf €989</p>
+    <p class="price">Prijs: €989</p>
     <img src= "./media/victus.png" style='width: 100%'>
     
       <p><button>Voeg toe aan winkelmandje</button></p>
@@ -51,7 +51,7 @@
 <div class="column">
     <div class="card">
     <h2 style="text-align:center">Microsoft Surface 4 Laptop – Intel i5 – 13,5 Inch - 8GB – Platinum</h2>
-    <p class="price">vanaf €1.499</p>
+    <p class="price">Prijs: €1.499</p>
     <img src= "./media/microsoft.png" style='width: 100%'>
       <p><button>Voeg toe aan winkelmandje</button></p>
 </div>
