@@ -99,14 +99,14 @@ body {
   .column {
     float: left;
     width: 30%;
-    padding: 0 10px;
+    padding: 0 20px;
   }
 
   .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     padding-top: 20px;
     width: 300px;
-    margin: 100px;
+    margin: 40px;
     float: center;
     text-align: center;
     font-family: arial;
