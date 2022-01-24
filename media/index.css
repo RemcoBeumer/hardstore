@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #bdc3c7;
+    background-color: white;
   }
   
   /* navbar styles */
@@ -76,6 +76,22 @@ body {
   
   .dropdown:hover .dropdown-content {
     display: block;
+  }
+
+  .dropdown .dropbtn1 {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 25px 30px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+
+  .fa fa-fw fa-search {
+    text-align: left;
+    float: left;
   }
 
   /* product card */

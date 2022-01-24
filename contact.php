@@ -1,7 +1,7 @@
 
 <?php include 'header.php' ?>
 
-<h1>Contact</h1>
+<h1 style="text-align:center;">Contact</h1>
 	<div class="contactform">
   <form action="verwerken.php"  method="post">
   <input type="naam" id="naam" name="naam" placeholder="Voor- en achternaam">
