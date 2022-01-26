@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./css/index.css">
 
 <?php include 'header.php' ?>
 
@@ -12,7 +13,7 @@
 </form>
 </div>
 
-  <form action="televisies.php"
+  <form action="televisies.php">
   	<div class="column">
       <div class="card">
         <h2 style="text-align:center">Televisies</h2>

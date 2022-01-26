@@ -11,7 +11,7 @@ include("auth_session.php");
 <head>
     <meta charset="utf-8">
     <title>Dashboard - klantenbeheer</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="./css/style.css" />
 </head>
 <body>
     <div class="form">
