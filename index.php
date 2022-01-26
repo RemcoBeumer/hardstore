@@ -30,7 +30,7 @@
         <h2 style="text-align:center">Telefoons</h2>
         <p class="price">Vanaf €199.99</p>
         <img src= "./media/telefoonhome.png" style='width: 55%'>  
-        <p><button formaction="./producten/telefoons.php">Bekijk producten</button>
+        <p><button type="submit">Bekijk producten</button>
 </div>
 </form>
 </div>
